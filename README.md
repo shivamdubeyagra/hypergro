@@ -1,6 +1,3 @@
-Here's an improved version of your README with a more professional tone and clearer instructions:
-
----
 
 # Video Shorts Platform: Shortify
 
@@ -56,4 +53,3 @@ We extend our gratitude to the creators and contributors of the libraries and fr
 
 ---
 
-Feel free to further customize this README to suit your preferences or add more specific details about your project.
